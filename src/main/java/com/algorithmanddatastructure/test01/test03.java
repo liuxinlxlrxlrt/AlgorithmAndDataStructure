@@ -1,9 +1,9 @@
-package com.algorithmanddatastructure.test;
+package com.algorithmanddatastructure.test01;
 
 /**
  * 计算10的阶乘（factorial [fækˈtɔːriəl] ）
  */
-public class Test10factorial {
+public class test03 {
     public static void main(String[] args) {
         int result = fun2(10);
         System.out.println(result);
